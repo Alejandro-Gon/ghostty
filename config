@@ -1,0 +1,13 @@
+font-feature = -calt
+theme = rose-pine-moon
+background-opacity = 0.9
+window-padding-x = 10
+window-padding-y = 10
+window-decoration = false
+window-height = 1000
+window-width = 1000
+font-thicken = true
+keybind = alt+d=next_tab
+keybind = alt+a=previous_tab
+keybind = alt+t=new_tab
+# custom-shader = shader.glsl
